@@ -145,14 +145,14 @@
 //   результат
 //   [3,5,7,9]
 
-function summElem(arr1, arr2, arr3) {
-    for (i = 0; i < 4; i++) {
-        arr3[i] = (arr1[i] + arr2[i]);
-    }
-    return arr3
-}
-
-console.log(summElem([1, 2, 3, 4], [2, 3, 4, 5], []));
+// function summElem(arr1, arr2, arr3) {
+//     for (i = 0; i < 4; i++) {
+//         arr3[i] = (arr1[i] + arr2[i]);
+//     }
+//     return arr3
+// }
+//
+// console.log(summElem([1, 2, 3, 4], [2, 3, 4, 5], []));
 
 // =========================
 
